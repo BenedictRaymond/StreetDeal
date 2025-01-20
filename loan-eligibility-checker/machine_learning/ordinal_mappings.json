@@ -1,0 +1,37 @@
+{
+    "Previous Loan History": {
+        "No": 0,
+        "Yes": 1
+    },
+    "Loan Repayment History": {
+        "Good": 0,
+        "Moderate": 1,
+        "Poor": 2
+    },
+    "Gender": {
+        "Female": 0,
+        "Male": 1
+    },
+    "Married": {
+        "No": 0,
+        "Yes": 1
+    },
+    "Dependents": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3+": 3
+    },
+    "Education": {
+        "Graduate": 0,
+        "Not Graduate": 1
+    },
+    "Self_Employed": {
+        "No": 0,
+        "Yes": 1
+    },
+    "Loan_Status": {
+        "N": 0,
+        "Y": 1
+    }
+}
